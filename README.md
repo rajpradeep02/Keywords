@@ -177,4 +177,16 @@
     - it is immposibble to distribute system to simultaneouslyprovide more than two of the three of the guarantees.
 ###
 52. **ASIc :** - Applicaton Service Integrated Sercuit, use for bitcoin mining.
-# Keywords
+53. **ICMP :** - Internet Control Message Protocol (ICMP) is a network layer protocol that is used to diagnose communication errors. ICMP is used for diagnostics and network management. For example, the “ping” utility uses an ICMP request and ICMP reply message.
+###
+54. **Footprinting :** - The process of cybersecurity footprinting involve profiling organaisation  and collencting data about the network, host, employee and third-party partners. like which os used, which services used and its virsions, firewall protocols, IPs, DNS, 
+###
+55. **Enumeration :** - its nothing but geathering information about the ports. like its virsion, crediantial etc.
+###
+56. **Malware :** - It's an malecious software intended to harm or exploit any programmable devices, service or network.
+###
+57. **Payloads :** - Payload in the context of malware refers to malicious code that causes harm to the targeted victim. Malware payloads can be distributed by methods such as worms and phishing emails. 
+    - Payloads can be delivered to your computer through: Email attachments, Malicious websites, USB drives. 
+    - Today, malware authors typically encrypt the payload to hide the malicious code from antimalware detection and remediation tools
+###
+58. **Reconnaissance :** - Reconnaissance is the information-gathering stage of ethical hacking, where you collect data about the target system.
